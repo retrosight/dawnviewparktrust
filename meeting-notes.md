@@ -2,7 +2,7 @@
 
 ## 2022-10-22 Rose Church + Architecture Team and South Tabor Community
 
-### Representing Rose Church
+Representing Rose Church:
 
 * Andrew Damazio, Pastor, Rose Church
 * Scott Edwards, Architect (and another associate presumably from the architect team).
