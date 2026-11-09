@@ -31,3 +31,10 @@
 ## Background
 
 * [Trinity Fellowship Portland Church History](./resources/Background-Trinity-Fellowship-Portland-Church-History.pdf)
+
+## Portland Parks and Recreation Plans and Land Acquisition Strategy
+
+* [2020 Portland Parks And Rec Vision Plan Southeast Subsection.pdf](./resources/2020-Portland-Parks-And-Rec-Vision-Plan-Southeast-Subsection.pdf) - The Southeast section of the Parks 2020 Vision plan which established PP&R's level of service goals. Notice on p. 67 that only two areas in SE PDX are highlighted as having parkland deficiencies, one being the "area bounded by Division, Powell, and 62nd and 82nd Avenues."
+* [2016 Portland Parks And Rec Land Acquisition Strategy](./resources/2016-Portland-Parks-And-Rec-Land-Acquisition-Strategy.pdf) - Outlines PP&R's land acquisition strategy. More info online at [https://www.portland.gov/parks/land-acquisition-program](https://www.portland.gov/parks/land-acquisition-program).
+* [1996 South Tabor Neighborhood Plan](./resources/1996-South-Tabor-Neighborhood-Plan.pdf) - Adopted South Tabor Neighborhood Plan (from 1996, but still the most recent adopted area plan for the neighborhood). Policy 6 deals with parks and open spaces. Nothing mentioning this parcel in particular, but this plan will be a useful reference should there be a land use review for any proposed changes to the church's conditional use permit.
+* [1996 Outer Southeast Community Plan.pdf](./resources/1996-Outer-Southeast-Community-Plan.pdf) - The Adopted Outer Southeast Community Plan, which includes S. Tabor. The Open Space and Environmental Policy starts on page 55 (p. 63 of the PDF). Similar to the South Tabor plan, this might shed some light on the City's adopted goals for parks and will be a useful reference in a potential land use review.
